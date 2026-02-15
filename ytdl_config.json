@@ -1,0 +1,20 @@
+{
+    "download_path": "C:\\Users\\kunal\\Downloads\\YouTubeDownloader",
+    "theme": "dark",
+    "color_theme": "blue",
+    "max_concurrent": 3,
+    "default_video_quality": "Best Quality",
+    "default_audio_format": "mp3",
+    "default_video_format": "mp4",
+    "embed_thumbnail": true,
+    "embed_subtitles": true,
+    "subtitle_lang": "en",
+    "speed_limit": 0,
+    "proxy": "",
+    "filename_template": "%(title)s.%(ext)s",
+    "sponsor_block": true,
+    "geo_bypass": true,
+    "clipboard_monitor": true,
+    "cookies_browser": "none",
+    "use_cookies": false
+}
